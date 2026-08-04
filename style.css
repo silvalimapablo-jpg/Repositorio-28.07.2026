@@ -6,6 +6,17 @@ header{
   padding: 16px;
 }
 main {
+  display: flex;
   background: #ffff;
   color: #183c63;
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
+img{
+  width: 80px;
+  height: 80px;
+}
+.artigo-autor{
+    color:#CF1010
 }
