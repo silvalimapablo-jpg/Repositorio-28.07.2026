@@ -4,6 +4,7 @@ header{
   margin: 0 auto;
   border: 5px solid #CF1010;
   padding: 16px;
+  font-family: "Black Ops One", system-ui;
 }
 main {
   display: flex;
@@ -12,6 +13,7 @@ main {
   text-align: center;
   max-width: 800px;
   margin: 0 auto;
+  font-family: "Black Ops One", system-ui;
 }
 img{
   width: 80px;
