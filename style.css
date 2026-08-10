@@ -8,10 +8,12 @@ header{
 }
 main {
   display: flex;
+  flex-direction: column;
+  align-items: center;
   background: #ffff;
   color: #051a31;
   text-align: center;
-  max-width: 800px;
+  max-width: 100%;
   margin-top: 16px 0 auto;
   font-family: "Black Ops One", system-ui;
 }
@@ -21,4 +23,10 @@ img{
 }
 .artigo-autor{
     color:#CF1010
+}
+.MeuPost{
+  display: flex;
+}
+.texto{
+  width: 500px;
 }
